@@ -20,7 +20,9 @@ Para correr la simulacion, es necesario abrir los siguientes archivos de Simulin
 Además, habrá que abrir los dos siguientes archivos en MATLAB:
   - Matlab\Modelo SLIP\trayectoriaSLIP.m
   - Matlab\Modelo SLIP\trayectoriaMMR.m
+
 y modificar en ellos el Path donde se encuentra el directorio 'Videos Tracker'
+
 ------------------------------------------------------------------------------------------------
 EJECUCIÓN:
 -----------------------------------------------------------------------------------------------
