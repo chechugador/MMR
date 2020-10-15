@@ -20,8 +20,11 @@ Además, habrá que abrir los dos siguientes archivos en MATLAB:
   - Matlab\Modelo SLIP\trayectoriaSLIP.m
   - Matlab\Modelo SLIP\trayectoriaMMR.m
 y modificar en ellos el Path donde se encuentra el directorio 'Videos Tracker'
-Una vez realizadas estas acciones, se puede proceder a ejecutar la simulación:
 ------------------------------------------------------------------------------------------------
+EJECUCIÓN:
+-----------------------------------------------------------------------------------------------
+Una vez realizadas estas acciones, se puede proceder a ejecutar la simulación:
+
 1) Abrir el script SLIPvsMMR.m
 2) Especificar en las lineas 11 y 25 la trayectoria que se quiere simular:
   - 'hop'
@@ -29,3 +32,5 @@ Una vez realizadas estas acciones, se puede proceder a ejecutar la simulación:
   - 'caballo1', 'caballo2', 'caballo3'
   - 'canguro1', 'canguro2', 'canguro3'
 3) Ejecutar el script SLIPvsMMR.m
+
+-----------------------------------------------------------------------------------------------
