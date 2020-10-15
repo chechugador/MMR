@@ -16,6 +16,7 @@ Para correr la simulacion, es necesario abrir los siguientes archivos de Simulin
   - Matlab\Modelo SLIP\slip_air.slx
   - Matlab\Modelo MMR\mmr_ground.slx
   - Matlab\Modelo MMR\mmr_air_alternat.slx
+  
 Además, habrá que abrir los dos siguientes archivos en MATLAB:
   - Matlab\Modelo SLIP\trayectoriaSLIP.m
   - Matlab\Modelo SLIP\trayectoriaMMR.m
